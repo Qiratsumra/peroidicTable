@@ -1,0 +1,128 @@
+h1{
+    font-size: 50px;
+    color: brown;
+    text-transform: capitalize;
+    text-align: center;
+    text-decoration-line: underline;
+}
+*{
+    background-color: powderblue;
+}
+#periodNum{
+    text-align: left;
+}
+#groupNum{
+    text-align: left;
+}
+#lastgroup{
+    text-align: right;
+}
+#yellow{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    background-color: yellow;
+    margin: 5px;
+    padding: 5px;
+}
+#Yellow{
+    background-color: yellow;
+}
+#greenYellow{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    background-color: greenyellow;
+    margin: 5px;
+    padding: 5px;
+}
+#GreenYellow{
+    background-color: greenyellow;
+}
+#red{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    background-color: red;
+    margin: 5px;
+    padding: 5px;
+}
+#Red{
+    background-color: red;
+}
+#peach{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    background-color:#FFB6C1;
+    margin: 5px;
+    padding: 5px;
+}
+#Peach{
+    background-color: #FFB6C1;
+}
+#lightBlue{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    background-color: lightskyblue;
+    margin: 5px;
+    padding: 5px;
+}
+#LightBlue{
+    background-color: lightskyblue;
+}
+#babyPink{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    background-color: rgb(233, 198, 198);
+}
+#BabyPink{
+    background-color: rgb(233, 198, 198); ;
+}
+#grey{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    background-color: grey;
+    margin: 5px;
+    padding: 5px;
+
+}
+#Grey{
+    background-color: gray;
+}
+#white{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    background-color: whitesmoke;
+    margin: 5px;
+    padding: 5px;
+}
+#White{
+    background-color: whitesmoke;
+}
+#eightBlock{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    background-color:rgb(160, 82, 95);
+    margin: 5px;
+    padding: 5px;
+}
+#eight{
+    background-color:rgb(160, 82, 95) ;
+}
+#nineBlock{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+    background-color: lightcoral;
+    margin: 5px;
+    padding: 5px;
+}
+#nine{
+    background-color: lightcoral;
+}
